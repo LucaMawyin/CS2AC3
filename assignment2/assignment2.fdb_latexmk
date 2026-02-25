@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1771889397.47089 "c:/Users/lucam/Desktop/2AC3/assignment2/assignment2.tex" "assignment2.pdf" "assignment2" 1771889398.52299 0
+["pdflatex"] 1771978787.73554 "c:/Users/lucam/Desktop/2AC3/assignment2/assignment2.tex" "assignment2.pdf" "assignment2" 1771978789.99391 0
   "C:/Users/lucam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1771804424 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/lucam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1758769530 13286966 56cf3831de8057cd5a3c8f37e0be2756 ""
   "C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -212,10 +212,10 @@
   "C:/Users/lucam/AppData/Local/Programs/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/lucam/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/lucam/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "assignment2.aux" 1771889398 269 0fb80b3648e43a297a6c45a0b4578020 "pdflatex"
-  "assignment2.out" 1771889398 40 dae17bc7c6a5f66e8521db3b796aac96 "pdflatex"
-  "assignment2.tex" 1771889397 7209 0f4b1d5fda0a0856f506ce8f5410eca5 ""
-  "c:/Users/lucam/Desktop/2AC3/assignment2/assignment2.tex" 1771889397 7209 0f4b1d5fda0a0856f506ce8f5410eca5 ""
+  "assignment2.aux" 1771978789 269 0fb80b3648e43a297a6c45a0b4578020 "pdflatex"
+  "assignment2.out" 1771978789 40 dae17bc7c6a5f66e8521db3b796aac96 "pdflatex"
+  "assignment2.tex" 1771978786 7209 c91cb8a9cfd79ac04d965bc46ed8d726 ""
+  "c:/Users/lucam/Desktop/2AC3/assignment2/assignment2.tex" 1771978786 7209 c91cb8a9cfd79ac04d965bc46ed8d726 ""
   (generated)
   "assignment2.aux"
   "assignment2.log"
