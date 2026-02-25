@@ -257,15 +257,16 @@ Given the conditions for the languauge $A$, as $x$ is concatenated with itself, 
     S&=abc\\
     abc&=0^P0^P\\
 \end{align*}
-Looking at the conditions of the pumping lemma, $\abs{ab}\leq{P}$, meaning that $ab$ is a substring of $0^P$. This means that we can express $a$ and $b$ as:
+Looking at the conditions of the pumping lemma, $\abs{ab}\leq{P}$, meaning that $ab$ is a substring of $0^P$. We can then express the components $a$ and $b$ using $k$:
 \begin{align*}
     a&=0^{P-k}\\
     b&=0^k
 \end{align*}
 Where $k>0$ as $\abs{b}>0$. Now, we need to pump $b$ for some $i\geq{0}$. We can use $i=2$ as an example:
 \begin{align*}
-    ab^2c&=0^{P-k}0^{2k}0^P\\
+    ab^2c&=0^{P-k}(0^k)^20^P\\
+    &=0^{P-k}0^{2k}0^P\\
     &=0^{P+k}0^P
 \end{align*}
-As the length of the first half of the string is not the same as the length of the second half, this means that the string is not expressed in the form $xx$ for some $x\in\{0,1\}^*$. As it contradicts the first condition of the pumping lemma, this means that $A$ is not a regular language.
+As the length of the first half of the string is not the same as the length of the second half of the string when $i=2$, this shows that the string is not expressed in the form $xx$ for some $x\in\{0,1\}^*$. As this contradicts the first condition of the pumping lemma, this means that $A$ is not a regular language.
 \end{document}
