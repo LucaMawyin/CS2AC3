@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.24)  24 FEB 2026 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.24)  25 FEB 2026 16:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -668,7 +668,7 @@ Package translations Info: No language package found. I am going to use `english
  (C:\Users\lucam\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count369
-) (assignment2.aux)
+) (c:\Users\lucam\Desktop\2AC3\assignment2\%OUTDIR%\assignment2.aux)
 \openout1 = `assignment2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
@@ -750,7 +750,7 @@ Package translations Info: loading dictionary `translations-basic-dictionary' fo
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.16).
 
 Package hyperref Info: Link coloring ON on input line 134.
-(assignment2.out) (assignment2.out)
+(c:\Users\lucam\Desktop\2AC3\assignment2\%OUTDIR%\assignment2.out) (c:\Users\lucam\Desktop\2AC3\assignment2\%OUTDIR%\assignment2.out)
 \@outlinefile=\write4
 \openout4 = `assignment2.out'.
 
@@ -767,26 +767,30 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [1
 
-{C:/Users/lucam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (assignment2.aux)
+{C:/Users/lucam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+[2]
+
+[3] (c:\Users\lucam\Desktop\2AC3\assignment2\%OUTDIR%\assignment2.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
 Package rerunfilecheck Info: File `assignment2.out' has not changed.
-(rerunfilecheck)             Checksum: DAE17BC7C6A5F66E8521DB3B796AAC96;40.
+(rerunfilecheck)             Checksum: 751429FB1F8EF360DAD1F4127CE77C53;395.
  ) 
 Here is how much of TeX's memory you used:
- 39245 strings out of 468130
- 960054 string characters out of 5430633
- 1433171 words of memory out of 5000000
- 67312 multiletter control sequences out of 15000+600000
+ 39355 strings out of 468130
+ 962426 string characters out of 5430633
+ 1442170 words of memory out of 5000000
+ 67409 multiletter control sequences out of 15000+600000
  634380 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,8n,107p,788b,1028s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on assignment2.pdf (1 page, 84543 bytes).
+ 102i,8n,107p,932b,1105s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/lucam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on c:\Users\lucam\Desktop\2AC3\assignment2\%OUTDIR%\assignment2.pdf (3 pages, 124686 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 85 words of extra memory for PDF output out of 10000 (max. 10000000)
 
