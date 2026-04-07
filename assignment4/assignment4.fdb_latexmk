@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1775518956.05783 "/Users/lucamawyin/Desktop/CS2AC3/assignment4/assignment4.tex" "assignment4.pdf" "assignment4" 1775518956.94111 0
-  "/Users/lucamawyin/Desktop/CS2AC3/assignment4/assignment4.tex" 1775518955.85745 11283 eb97cd2e88d0c635a7a22667b602f280 ""
+["pdflatex"] 1775529476.35917 "/Users/lucamawyin/Desktop/CS2AC3/assignment4/assignment4.tex" "assignment4.pdf" "assignment4" 1775529477.3144 0
+  "/Users/lucamawyin/Desktop/CS2AC3/assignment4/assignment4.tex" 1775529476.1557 13657 7af572ce857aeebe27687cb7da6df923 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -166,6 +166,7 @@
   "/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption.sty" 1696191071 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty" 1696191071 72619 ee90b6612147680fd73c3b1406a74245 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/colortbl/colortbl.sty" 1747945524 12709 4ca3cf5f9f1d551b8a1090fba11ac95d ""
+  "/usr/local/texlive/2026/texmf-dist/tex/latex/comment/comment.sty" 1472166125 10197 204f75d5d8d88aa345a8c402e879e63b ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty" 1738874546 52272 63d293bc0d496619edb57585740861a2 ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1579991033 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1759437024 46885 8953c67ffba03252c6090aa19568b8ba ""
@@ -216,9 +217,9 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1774467206 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1774209607 3636776 dc5fa9b6b1453b9d196cd42edf876004 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "assignment4.aux" 1775518956.86787 453 e21660a31cb4e7d826f7778449d427a2 "pdflatex"
-  "assignment4.out" 1775518956.86834 105 507b94c311d302e32fa094acdf8ccdb3 "pdflatex"
-  "assignment4.tex" 1775518955.85745 11283 eb97cd2e88d0c635a7a22667b602f280 ""
+  "assignment4.aux" 1775529477.23628 453 647b796a6a795cda72e0ac1e79b712b1 "pdflatex"
+  "assignment4.out" 1775529477.2367 105 507b94c311d302e32fa094acdf8ccdb3 "pdflatex"
+  "assignment4.tex" 1775529476.1557 13657 7af572ce857aeebe27687cb7da6df923 ""
   (generated)
   "assignment4.aux"
   "assignment4.log"
